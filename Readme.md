@@ -14,7 +14,7 @@
  - **Crawl4AI AI Web Scraper**
 
 ### Email Template Preview Screenshot:
-![]([assets/image.png](https://i.ibb.co/4wVWDX3N/Healing-Hands-Chiropractic-Hanson-Email-Gen-Template-Prev.png))
+![](https://github.com/bhtan0309/healing-hands-sg-project-example-email-template/blob/fa298b425bcf626afe1260e0e9c55745d26326b4/Healing_Hands_Chiropractic_Hanson_Email_Gen_Template_Prev.png)
 
 
 
